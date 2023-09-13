@@ -1,4 +1,4 @@
-Derin Öğrenme Tabanlı Chatbot README
+
 Bu README dosyası, küçük bir JSON veri seti kullanarak bir sohbet botu oluşturmanıza yardımcı olacak adımları içerir. Bu proje, kullanıcının girdilerine yanıt veren bir yapay zeka tabanlı sohbet botu oluşturmayı amaçlamaktadır.
 
 Proje Açıklaması
